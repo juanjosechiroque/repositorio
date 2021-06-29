@@ -1,0 +1,3 @@
+primera linea del archivo
+mi nombre es juan jose
+tercera linea del archivo
